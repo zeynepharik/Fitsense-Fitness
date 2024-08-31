@@ -1,0 +1,562 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "name": "Monday"
+    },
+    {
+      "id": "2",
+      "name": "Tuesday"
+    },
+    {
+      "id": "3",
+      "name": "Wednesday"
+    },
+    {
+      "id": "4",
+      "name": "Thursday"
+    },
+    {
+      "id": "5",
+      "name": "Friday"
+    },
+    {
+      "id": "6",
+      "name": "Saturday"
+    },
+    {
+      "id": "7",
+      "name": "Sunday"
+    }
+  ],
+  "times": [
+    {
+      "id": "6",
+      "time": "06:00 AM"
+    },
+    {
+      "id": "7",
+      "time": "07:00 AM"
+    },
+    {
+      "id": "8",
+      "time": "08:00 AM"
+    },
+    {
+      "id": "9",
+      "time": "09:00 AM"
+    },
+    {
+      "id": "10",
+      "time": "10:00 AM"
+    },
+    {
+      "id": "11",
+      "time": "11:00 AM"
+    },
+    {
+      "id": "12",
+      "time": "12:00 PM"
+    },
+    {
+      "id": "13",
+      "time": "01:00 PM"
+    },
+    {
+      "id": "14",
+      "time": "02:00 PM"
+    },
+    {
+      "id": "15",
+      "time": "03:00 PM"
+    },
+    {
+      "id": "16",
+      "time": "04:00 PM"
+    },
+    {
+      "id": "17",
+      "time": "05:00 PM"
+    },
+    {
+      "id": "18",
+      "time": "06:00 PM"
+    },
+    {
+      "id": "19",
+      "time": "07:00 PM"
+    },
+    {
+      "id": "20",
+      "time": "08:00 PM"
+    },
+    {
+      "id": "21",
+      "time": "09:00 PM"
+    },
+    {
+      "id": "22",
+      "time": "10:00 PM"
+    }
+  ],
+  "reservations": [
+    {
+      "id": "1",
+      "trackingid": "CRN-ABC123",
+      "categoryId": 1,
+      "dayId": 1,
+      "timeId": 10
+    },
+    {
+      "id": "2",
+      "trackingid": "CRD-DEF456",
+      "categoryId": 2,
+      "dayId": 2,
+      "timeId": 14
+    },
+    {
+      "id": "3",
+      "trackingid": "CFX-4OQ6WV",
+      "categoryId": 3,
+      "dayId": 3,
+      "timeId": 16
+    },
+    {
+      "id": "4",
+      "trackingid": "OGM-Z23J3K",
+      "categoryId": 4,
+      "dayId": 4,
+      "timeId": 8
+    },
+    {
+      "id": "5",
+      "trackingid": "TBD-D8L6JU",
+      "categoryId": 5,
+      "dayId": 5,
+      "timeId": 18
+    },
+    {
+      "id": "6",
+      "trackingid": "YGA-JPRPVO",
+      "categoryId": 6,
+      "dayId": 6,
+      "timeId": 10
+    },
+    {
+      "id": "7",
+      "trackingid": "CRN-QY4LNK",
+      "categoryId": 1,
+      "dayId": 1,
+      "timeId": 17
+    },
+    {
+      "id": "8",
+      "trackingid": "CRD-PFVKWO",
+      "categoryId": 2,
+      "dayId": 3,
+      "timeId": 12
+    },
+    {
+      "id": "9",
+      "trackingid": "CFX-HBDXD4",
+      "categoryId": 3,
+      "dayId": 5,
+      "timeId": 15
+    },
+    {
+      "id": "10",
+      "trackingid": "OGM-UQ6Z9G",
+      "categoryId": 4,
+      "dayId": 6,
+      "timeId": 9
+    },
+    {
+      "id": "11",
+      "trackingid": "TBD-0Z6V8H",
+      "categoryId": 5,
+      "dayId": 7,
+      "timeId": 17
+    },
+    {
+      "id": "12",
+      "trackingid": "YGA-XYZ789",
+      "categoryId": 6,
+      "dayId": 7,
+      "timeId": 7
+    },
+    {
+      "id": "13",
+      "trackingid": "CRN-123456",
+      "categoryId": 1,
+      "dayId": 2,
+      "timeId": 10
+    },
+    {
+      "id": "14",
+      "trackingid": "CRD-789012",
+      "categoryId": 2,
+      "dayId": 4,
+      "timeId": 14
+    },
+    {
+      "id": "15",
+      "trackingid": "CFX-345678",
+      "categoryId": 3,
+      "dayId": 6,
+      "timeId": 16
+    },
+    {
+      "id": "16",
+      "trackingid": "OGM-901234",
+      "categoryId": 4,
+      "dayId": 1,
+      "timeId": 8
+    },
+    {
+      "id": "17",
+      "trackingid": "TBD-567890",
+      "categoryId": 5,
+      "dayId": 3,
+      "timeId": 18
+    },
+    {
+      "id": "18",
+      "trackingid": "YGA-345678",
+      "categoryId": 6,
+      "dayId": 5,
+      "timeId": 10
+    },
+    {
+      "id": "19",
+      "trackingid": "CRN-901234",
+      "categoryId": 1,
+      "dayId": 7,
+      "timeId": 17
+    },
+    {
+      "id": "20",
+      "trackingid": "CRD-567890",
+      "categoryId": 2,
+      "dayId": 2,
+      "timeId": 12
+    },
+    {
+      "id": "f7a6",
+      "timeId": "17",
+      "dayId": "2",
+      "categoryId": "3",
+      "name": "Ayşe",
+      "surname": "Deniz"
+    },
+    {
+      "id": "748e",
+      "timeId": "18",
+      "dayId": "7",
+      "categoryId": "5",
+      "name": "Ada",
+      "surname": "Deniz"
+    },
+    {
+      "id": "c01b",
+      "timeId": "19",
+      "dayId": "7",
+      "categoryId": "3",
+      "name": "Ali",
+      "surname": "Deniz"
+    },
+    {
+      "id": "656b",
+      "timeId": "22",
+      "dayId": "7",
+      "categoryId": "3",
+      "name": "zeynep",
+      "surname": "AY"
+    },
+    {
+      "id": "63f6",
+      "timeId": "21",
+      "dayId": "7",
+      "categoryId": "2",
+      "name": "Ada",
+      "surname": "Kum"
+    },
+    {
+      "id": "34bd",
+      "timeId": "8",
+      "dayId": "1",
+      "categoryId": "3",
+      "name": "Zeynep ",
+      "surname": "Harık"
+    },
+    {
+      "id": "d8e0",
+      "timeId": "10",
+      "dayId": "3",
+      "categoryId": "4",
+      "name": "Arzu",
+      "surname": "Dağ"
+    },
+    {
+      "id": "35a1",
+      "timeId": "13",
+      "dayId": "5",
+      "categoryId": "5",
+      "name": "Esma ",
+      "surname": "Bozkurt"
+    },
+    {
+      "id": "7f2b",
+      "timeId": "14",
+      "dayId": "4",
+      "categoryId": "2",
+      "name": "Kıvanç",
+      "surname": "Yılmaz"
+    },
+    {
+      "id": "54d4",
+      "timeId": "18",
+      "dayId": "6",
+      "categoryId": "1",
+      "name": "Kaya",
+      "surname": "Su"
+    },
+    {
+      "id": "e36e",
+      "timeId": "18",
+      "dayId": "7",
+      "categoryId": "3",
+      "name": "Cem ",
+      "surname": "Yılmaz"
+    },
+    {
+      "id": "9584",
+      "timeId": "11",
+      "dayId": "1",
+      "categoryId": "6",
+      "name": "Ahmet ",
+      "surname": "Çiftçi"
+    },
+    {
+      "id": "589b",
+      "timeId": "11",
+      "dayId": "1",
+      "categoryId": "5",
+      "name": "Selin",
+      "surname": "Yağmur"
+    },
+    {
+      "id": "1eb4",
+      "timeId": "15",
+      "dayId": "2",
+      "categoryId": "3",
+      "name": "Samet",
+      "surname": "Ünal"
+    },
+    {
+      "id": "85fc",
+      "timeId": "21",
+      "dayId": "3",
+      "categoryId": "2",
+      "name": "Cem ",
+      "surname": "Akarsu"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Crunch and Core"
+    },
+    {
+      "id": "2",
+      "categoryName": "Cardio"
+    },
+    {
+      "id": "3",
+      "categoryName": "CrossFit"
+    },
+    {
+      "id": "4",
+      "categoryName": "Open Gym"
+    },
+    {
+      "id": "5",
+      "categoryName": "Total Body"
+    },
+    {
+      "id": "6",
+      "categoryName": "Yoga"
+    }
+  ],
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Mastering the Art of Acrobatics: Tips for Beginners",
+      "category": "Acrobatics",
+      "date": "October 4, 2022",
+      "comments": 0,
+      "image": "/images/blog-single/column/1.jpg",
+      "link": "mastering-the-art-of-acrobatics-tips-for-beginners.html",
+      "description": "Discover essential tips for beginners to safely and effectively start their journey into acrobatics, focusing on building strength, flexibility, and mastering basic techniques.",
+      "content": "When starting out in acrobatics, it's crucial to focus on mastering basic movements and executing them correctly, as these form the foundation of more advanced techniques. To improve your balance, regularly practice balance exercises, which will help you perform acrobatic maneuvers more smoothly and safely. Flexibility plays a significant role in enhancing your acrobatic skills, so incorporating stretching routines into your training regimen is essential. Building strength and endurance through strength training will enable you to perform more challenging moves with greater ease. Regularly recording and reviewing your performances can help you track progress and identify areas for improvement. Remember that setbacks and falls are a natural part of the learning process, so persistence and continuous effort are key to advancing in acrobatics."
+    },
+    {
+      "id": "2",
+      "title": "How to Improve Flexibility and Strength Through Gymnastics",
+      "category": "Gymnastics",
+      "date": "October 5, 2022",
+      "comments": 0,
+      "image": "/images/blog-single/column/2.jpg",
+      "link": "improve-flexibility-and-strength-through-gymnastics.html",
+      "description": "Learn how gymnastics can enhance your flexibility and strength with targeted exercises and techniques, perfect for athletes at any level.",
+      "content": "Gymnastics is a dynamic and multifaceted discipline that effectively enhances both flexibility and strength, crucial for excelling in this sport and benefiting overall physical health. To improve flexibility, it is essential to integrate a variety of stretching techniques into your training regimen. Begin with static stretches, such as holding the splits, backbends, and deep hamstring stretches, which help lengthen muscles and increase your range of motion. Dynamic stretching, including leg swings, arm circles, and torso twists, prepares your muscles and joints for the demands of gymnastics, improving both flexibility and mobility. Active flexibility exercises, such as pike stretches and bridge holds, not only enhance your range of motion but also improve your ability to control and maintain flexibility during routines. On the strength side, gymnastics offers a comprehensive workout that engages multiple muscle groups through bodyweight exercises. Techniques such as push-ups, pull-ups, and handstands build upper body strength, while exercises like leg raises, squats, and planks develop core and lower body strength. Incorporating strength training into your routine enhances muscle endurance, power, and stability, crucial for performing complex gymnastics movements. Additionally, integrating plyometric exercises like jumps and explosive movements can further enhance power and agility. Consistent practice, proper technique, and progressive overload are key to making significant gains in both flexibility and strength. Balancing these exercises with adequate rest and recovery ensures that your body adapts and grows stronger, ultimately leading to improved performance in gymnastics and better overall physical conditioning."
+    },
+    {
+      "id": "3",
+      "title": "Condition For All Around Fitness Classes",
+      "category": "Fitness",
+      "date": "October 6, 2022",
+      "comments": 0,
+      "image": "/images/blog-single/column/4.jpg",
+      "link": "condition-for-all-around-fitness-classes.html",
+      "description": "Explore the essential conditions and exercises that ensure a balanced, all-around fitness routine for optimal health and performance.",
+      "content": "To excel in all-around fitness classes, a balanced approach that emphasizes both flexibility and strength is essential. Flexibility can be enhanced through consistent stretching routines, including static stretches like splits and backbends to increase muscle length and range of motion. Dynamic stretches, such as leg swings and arm circles, prepare the body for intense activity and improve overall mobility. Active flexibility exercises, including pike stretches and bridge holds, help maintain and control flexibility during various movements. On the strength side, incorporating bodyweight exercises such as push-ups, pull-ups, and squats builds muscular endurance and power. Additionally, plyometric exercises like jumps and explosive movements can boost agility and strength. Combining these elements with proper rest and recovery ensures that your body adapts and thrives, leading to improved performance and overall fitness in a comprehensive workout regimen."
+    },
+    {
+      "id": "4",
+      "title": "The Health Benefits of Acrobatics: Flexibility, Strength, and Balance",
+      "category": "Acrobatics",
+      "date": "October 7, 2022",
+      "comments": 0,
+      "image": "/images/blog-single/column/5.jpg",
+      "link": "health-benefits-of-acrobatics-flexibility-strength-balance.html",
+      "description": "Discover how acrobatics enhances flexibility, strength, and balance, offering comprehensive health benefits for a well-rounded fitness routine.",
+      "content": "Acrobatics offers a multitude of health benefits by significantly enhancing flexibility, strength, and balance. The practice of acrobatic movements involves a range of dynamic stretches and contortions that help improve flexibility by increasing the length and elasticity of muscles. This enhanced flexibility can reduce the risk of injuries and improve overall mobility. In terms of strength, acrobatics demands the engagement of multiple muscle groups simultaneously, building both upper body and core strength through exercises like handstands and lifts. This comprehensive muscle engagement leads to increased muscle tone and endurance. Additionally, acrobatic routines challenge and develop balance and coordination, as practitioners must maintain stability while performing complex maneuvers. This improved balance translates to better posture and reduced risk of falls. Together, these benefits make acrobatics an effective and engaging way to achieve a well-rounded fitness profile."
+    },
+    {
+      "id": "5",
+      "title": "The Science Behind CrossFit: How It Improves Your Overall Health",
+      "category": "CrossFit",
+      "date": "October 8, 2022",
+      "comments": 0,
+      "image": "/images/blog-single/column/7.jpg",
+      "link": "the-science-behind-crossfit-how-it-improves-your-overall-health.html",
+      "description": "Explore the science behind CrossFit and how its unique approach to training can enhance your overall health, from improved cardiovascular fitness to increased strength and flexibility.",
+      "content": "CrossFit leverages scientific principles to enhance overall health through its high-intensity, functional training approach. By incorporating a blend of weightlifting, aerobic exercises, and bodyweight movements, CrossFit maximizes physical adaptations across multiple fitness domains. The high-intensity interval training (HIIT) format accelerates metabolism and boosts cardiovascular health, while compound movements strengthen diverse muscle groups simultaneously. This comprehensive approach not only improves muscle endurance and strength but also increases metabolic rate and fat oxidation. Additionally, CrossFit’s varied workouts prevent plateaus and enhance neuromuscular coordination, contributing to better functional fitness and reduced injury risk. The communal environment fosters motivation and accountability, further supporting long-term health benefits. Through its scientifically-backed methods, CrossFit offers a holistic path to achieving improved physical fitness and overall well-being."
+    },
+    {
+      "id": "6",
+      "title": "How to Maximize Your Results at a Training Gym",
+      "category": "Training Gym",
+      "date": "October 9, 2022",
+      "comments": 0,
+      "image": "/images/blog-single/column/8.jpg",
+      "link": "how-to-maximize-your-results-at-a-training-gym.html",
+      "description": "Discover effective strategies to enhance your performance and achieve your fitness goals by maximizing your workouts at a training gym.",
+      "content": "To get the most out of your time at a training gym, focus on a few key strategies that enhance your effectiveness and efficiency. Start by setting specific, measurable goals to guide your workouts and track your progress. Develop a well-rounded exercise routine that includes a mix of strength training, cardiovascular exercises, and flexibility work to target all aspects of fitness. Pay attention to proper form and technique to maximize benefits and prevent injuries. Utilize gym equipment and resources effectively, and consider working with a trainer for personalized guidance. Consistency is crucial, so establish a regular workout schedule and stay committed. Additionally, support your training with a balanced diet, ample hydration, and adequate rest to promote recovery and muscle growth. By incorporating these practices, you can optimize your workouts and achieve better results in your fitness journey."
+    }
+  ],
+  "faqs": [
+    {
+      "id": 1,
+      "question": "How old do I have to be to join Fitness?",
+      "answer": "You must be at least 16 years old to join our fitness club. However, for members under 18, we require a parent or guardian's consent."
+    },
+    {
+      "id": 2,
+      "question": "How much is membership at Fitness First?",
+      "answer": "Our membership fees vary depending on the type of membership you choose. We offer monthly, quarterly, and yearly plans starting from $30 per month."
+    },
+    {
+      "id": 3,
+      "question": "Can I put my membership on hold?",
+      "answer": "Yes, you can put your membership on hold for up to 3 months in a calendar year. Please contact our support team for further assistance."
+    },
+    {
+      "id": 4,
+      "question": "What if I want to cancel my membership?",
+      "answer": "You can cancel your membership anytime by providing a 30-day notice. Cancellation fees may apply depending on your membership type."
+    },
+    {
+      "id": 5,
+      "question": "Do you offer personal training services?",
+      "answer": "Yes, we offer personal training services with certified trainers. You can book sessions directly through our mobile app or at the reception desk."
+    },
+    {
+      "id": 6,
+      "question": "Are there any discounts for students or seniors?",
+      "answer": "Yes, we offer a 10% discount on membership fees for students and seniors. A valid ID is required to avail of the discount."
+    }
+  ],
+  "portfolios": [
+    {
+      "id": 1,
+      "title": "FUN WORKOUT",
+      "category": "Fitness",
+      "image": "/images/portfolio/slider/1.jpg",
+      "link": "/fun-workout"
+    },
+    {
+      "id": 2,
+      "title": "START OFF STRONG",
+      "category": "GAIN",
+      "image": "/images/portfolio/slider/2.jpg",
+      "link": "/start-off-strong"
+    },
+    {
+      "id": 3,
+      "title": "GYM ENTHUSIASTS",
+      "category": "TRAINING",
+      "image": "/images/portfolio/slider/3.jpg",
+      "link": "/gym-enthusiasts"
+    },
+    {
+      "id": 4,
+      "title": "HEALTHY LIFESTYLE",
+      "category": "GAIN",
+      "image": "/images/portfolio/slider/4.jpg",
+      "link": "/healthy-lifestyle"
+    },
+    {
+      "id": 5,
+      "title": "WORK HARDER",
+      "category": "Fitness",
+      "image": "/images/portfolio/slider/5.jpg",
+      "link": "/work-harder"
+    },
+    {
+      "id": 6,
+      "title": "PURE GYM SPACE",
+      "category": "GYM",
+      "image": "/images/portfolio/slider/6.jpg",
+      "link": "/pure-gym-space"
+    },
+    {
+      "id": 7,
+      "title": "TRAINING TIPS",
+      "category": "TRAINING",
+      "image": "/images/portfolio/slider/7.jpg",
+      "link": "/training-tips"
+    },
+    {
+      "id": 8,
+      "title": "BODY MUSCLE",
+      "category": "GAIN",
+      "image": "/images/portfolio/slider/8.jpg",
+      "link": "/body-muscle"
+    },
+    {
+      "id": 9,
+      "title": "EXTRA ENERGY",
+      "category": "GYM",
+      "image": "/images/portfolio/slider/9.jpg",
+      "link": "/extra-energy"
+    },
+    {
+      "id": 10,
+      "title": "MUSCLE BUILDER",
+      "category": "TRAINING",
+      "image": "/images/portfolio/slider/2.jpg",
+      "link": "/muscle-builder"
+    }
+  ]
+}

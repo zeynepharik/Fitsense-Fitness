@@ -1,4 +1,5 @@
 Fitsense
+![Demo](https://github.com/zeynepharik/Fitsense-Fitness/raw/main/demo.gif)
 
   Bu proje, kullanıcıların farklı spor türlerine göre fitness seansları için rezervasyon yapmalarını sağlayan bir Haftalık Fitness Rezervasyon Sitesidir. Kullanıcılar, rezervasyon yapmak için spor türünü, günü ve saati seçebilirler. Proje, durum yönetimi için React ve Redux kullanılarak inşa edilmiştir ve veri kaynağı olarak yerel db.json dosyası kullanılmıştır.
 

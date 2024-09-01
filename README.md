@@ -1,39 +1,27 @@
-# Fitness App
+Fitsense
 
-## Description
+  Bu proje, kullanıcıların farklı spor türlerine göre fitness seansları için rezervasyon yapmalarını sağlayan bir Haftalık Fitness Rezervasyon Sitesidir. Kullanıcılar, rezervasyon yapmak için spor türünü, günü ve saati seçebilirler. Proje, durum yönetimi için React ve Redux kullanılarak inşa edilmiştir ve veri kaynağı olarak yerel db.json dosyası kullanılmıştır.
 
-Welcome to the Fitness App project! This application provides a comprehensive platform for managing fitness programs, including pricing plans, reservations, and the latest blog updates. It is designed to help users stay fit and informed with tailored fitness packages and resources.
-
-## Features
-
-- **Reservation Form:** Users can book fitness sessions by selecting a category, day, and time.
-- **Pricing Table:** Displays various fitness packages and their details.
-- **Latest Blog:** Stay updated with the latest fitness tips, workouts, and wellness insights.
-
-## Project Details
-
-### 1. Reservation Form
-
-- **Purpose:** Allows users to reserve fitness sessions by choosing from available categories, days, and times.
-- **Components:**
-  - **Form Fields:** Name, Surname, Category, Day, Time.
-  - **Data Fetching:** Fetches data for categories, days, and times from a local JSON file.
-  - **Submission:** Submits reservation data to a local server and navigates to the reservation confirmation page.
-
-### 2. Pricing Table
-
-- **Purpose:** Presents a table of available fitness packages with detailed pricing information.
-- **Components:**
-  - **Package Details:** Includes package name, description, price, and benefits.
-  - **Styling:** Styled to be user-friendly and visually appealing.
-
-### 3. Latest Blog
-
-- **Purpose:** Provides users with the latest updates on fitness, including tips, workouts, and wellness articles.
-- **Components:**
-  - **Blog Posts:** Displayed in a list format with titles and excerpts.
-  - **Styling:** Designed to be engaging and easy to read.
-
-## Installation
-
-To set up and run the project locally, follow these steps:
+Özellikler
+Spor Türü Seçimi: Kullanıcılar, rezervasyon yapmak için çeşitli spor türleri arasından seçim yapabilir.
+Haftalık Rezervasyon: Kullanıcıların belirli bir gün ve saat için fitness seansı seçmesine olanak tanır.
+Durum Yönetimi: Uygulama, farklı bileşenler arasında durumu verimli bir şekilde yönetmek için Redux kullanır.
+Veri İşleme: Spor türleri, günler ve saatler için verileri depolamak ve almak amacıyla db.json dosyası kullanılır.
+Proje Detayları
+1. Rezervasyon Sistemi
+Amaç: Kullanıcıların farklı fitness aktiviteleri için haftalık rezervasyonlar yapmalarını sağlar.
+Bileşenler:
+Rezervasyon Formu: Spor türü, gün ve saat seçimi için alanlar içerir.
+Veri Alma: db.json dosyasından mevcut günler, saatler ve spor kategorilerini alır.
+Gönderim: Rezervasyon verilerini yerel bir sunucuya gönderir ve Redux kullanarak durum güncellemelerini yönetir.
+2. Spor Türü Kategorileri
+Amaç: Kullanıcıların rezervasyon yaparken seçebilecekleri mevcut spor kategorilerinin bir listesini gösterir.
+Bileşenler:
+Kategori Seçimi: Belirli bir spor türünü seçmek için açılır  liste.
+Stil: Kullanıcı dostu ve sporların açıkça kategorize edildiği şekilde tasarlanmıştır.
+3. Haftalık Program
+Amaç: Kullanıcıların haftalık olarak mevcut saat dilimlerini görüntülemelerini ve seçmelerini sağlar.
+Bileşenler:
+Gün ve Saat Seçimi: İstenilen gün ve saati seçmek için açılır menüler.
+Rezervasyon Onayı: Rezervasyon detaylarını onaylar ve kaydeder.
+ 
